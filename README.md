@@ -17,9 +17,6 @@ A Power BI dashboard designed to analyze COVID-19 data scraped from Worldometer.
   <img src="images/WebScrapping2.png" alt="Main Dashboard" width="1500"/>  
 </p>
 
-📊 Model Overview
-Model View Screenshot
-
 ---
 
 ### Key Features
@@ -33,7 +30,7 @@ Model View Screenshot
 - **Techniques Used:** Web scraping (Python BeautifulSoup), Power Query transformations, DAX measures, interactive slicers, cards, bar charts, line charts, scatter plots.
 
 📥 Download Report
-- COVID-19 Dashboard PBIX
+- [COVID-19 Dashboard PBIX](reports/Web_Scrapping_COVID19_Dashboard.pbix)
 
 ---
 
