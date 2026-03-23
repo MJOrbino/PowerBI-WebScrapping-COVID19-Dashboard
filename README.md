@@ -1,4 +1,4 @@
-# PowerBI-WebScraping COVID 19 Dashboard
+# PowerBI-WebScraping-COVID-19-Dashboard
 A Power BI dashboard designed to analyze COVID-19 data scraped from Worldometer. This repository highlights web scraping, data cleaning, and visualization techniques using publicly available datasets for demonstration purposes.
 
 🎯 Goals
